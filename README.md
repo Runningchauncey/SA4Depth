@@ -9,5 +9,5 @@
 - **2026-05**: SA4Depth accepted to RA-L 2026.
 
 ## TODOs
-- [ ] release the evaluation code and weights. ETA: 2026-06.
+- [ ] release the evaluation code and weights. ETA: 2026-07.
 - [ ] release the training code. ETA: 2026-07.
